@@ -1,9 +1,9 @@
 package overview
 
 import (
-	"github.com/bitcav/nitr/cpu"
-	"github.com/bitcav/nitr/host"
-	"github.com/bitcav/nitr/ram"
+	"github.com/bitcav/nitr-core/cpu"
+	"github.com/bitcav/nitr-core/host"
+	"github.com/bitcav/nitr-core/ram"
 )
 
 type Overview struct {
